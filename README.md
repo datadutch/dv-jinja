@@ -7,6 +7,7 @@ i have some personal goals with this:
 * build an easy to use and understandable datavault generator
 * learn from contributions made by others
 * learn about github ci/cd, actions, codespace, etc.
+* learn more about software development best practices, since i do not really have a background in programming
 
 # comments
 * i have some experience with Python Jinja, but for this repository, I will start at page 0 using this tutorial: https://realpython.com/primer-on-jinja-templating/
