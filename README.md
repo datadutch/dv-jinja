@@ -13,5 +13,9 @@ i have some personal goals with this:
 # local implementation
 * created the virtual environment manually, using https://docs.python.org/3/library/venv.html, feel free to do it at your own preference
 
+# to-do
+* setup github repo to prevent commits direcly on main branch (todo)
+* tutorial (in progress)
+
 # licensing
 from https://choosealicense.com/ i have chosen the GNU GPL v3 license: lets people do almost anything they want with your project, except distributing closed source versions.
