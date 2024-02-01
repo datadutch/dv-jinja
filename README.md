@@ -1,5 +1,6 @@
 # dv-jinja
-building a datavault generator using python jinja templating
+* building a datavault generator using python jinja templating
+* GNU GPL v3 license
 
 # TL;DR
 i have some personal goals with this:
