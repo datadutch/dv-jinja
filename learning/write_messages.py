@@ -21,5 +21,5 @@ for student in students:
         test_name=test_name
     )
     with open(filename, mode="w", encoding="utf-8") as message:
-        message.write(output/content)
+        message.write("output"/content)
         print(f"... wrote {filename}")
