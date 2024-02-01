@@ -1,5 +1,5 @@
 # dv-jinja
-building a datavault using python jinja temlating
+building a datavault generator using python jinja templating
 
 # TL;DR
 i have some personal goals with this:
