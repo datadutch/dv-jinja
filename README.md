@@ -18,8 +18,8 @@ i have some personal goals with this:
 # to-do
 * setup github repo to prevent commits direcly on main branch (todo)
 * tutorial (in progress)
-* track the number of Bing/CoPilot hacks here: (don't bother to track the number of Google helplines)
-* 1: write the output file to a separate folder
+* track the number of CoPilot hacks here:
+** write the output file to a separate folder
 
 # licensing
 from https://choosealicense.com/ i have chosen the GNU GPL v3 license: lets people do almost anything they want with your project, except distributing closed source versions.
