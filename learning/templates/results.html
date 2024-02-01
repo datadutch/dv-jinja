@@ -12,6 +12,7 @@
   <ul>
   {% for student in students %}
     <li>
+    {% if student.score > 80 %}🙂{% else %}🙁{% endif %}
       <em>{{ student.name }}:</em> {{ student.score }}/{{ max_score }}
     </li>
   {% endfor %}
