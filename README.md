@@ -8,7 +8,7 @@ i have some personal goals with this:
 * learn from contributions made by others
 
 # comments
-* ...
+* i have some experience with Python Jinja, but for this repository, I will start at page 0 using this tutorial: https://realpython.com/primer-on-jinja-templating/
 
 
 # licensing
