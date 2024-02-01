@@ -9,3 +9,7 @@ i have some personal goals with this:
 
 # comments
 * ...
+
+
+# licensing
+from https://choosealicense.com/ i have chosen the GNU GPL v3 license: lets people do almost anything they want with your project, except distributing closed source versions.
