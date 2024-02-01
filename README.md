@@ -22,6 +22,7 @@ i have some personal goals with this:
 * tutorial (in progress)
 * track the number of CoPilot hacks here:
 ** write the output file to a separate folder
+* setup codespace (done)
 
 # licensing
 from https://choosealicense.com/ i have chosen the GNU GPL v3 license: lets people do almost anything they want with your project, except distributing closed source versions.
