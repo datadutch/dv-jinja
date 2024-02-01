@@ -6,9 +6,11 @@ i have some personal goals with this:
 * learning how to set up an open source project and collaborate on this with others
 * build an easy to use and understandable datavault generator
 * learn from contributions made by others
+* learn about github ci/cd, actions, etc
 
 # comments
 * i have some experience with Python Jinja, but for this repository, I will start at page 0 using this tutorial: https://realpython.com/primer-on-jinja-templating/
+* the initial version should be working on Snowflake, generating both DDL and TASKS
 
 # local implementation
 * created the virtual environment manually, using https://docs.python.org/3/library/venv.html, feel free to do it at your own preference
