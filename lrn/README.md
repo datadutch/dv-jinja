@@ -1,6 +1,5 @@
 # dv-jinja
 * building a datawarehouse generator using python jinja templating
-* GNU GPL v3 license
 
 # TL;DR
 i have some personal goals with this:
