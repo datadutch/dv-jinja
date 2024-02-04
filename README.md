@@ -1,13 +1,13 @@
 # dv-jinja
-* building a datavault generator using python jinja templating
+* building a datawarehouse generator using python jinja templating
 * GNU GPL v3 license
 
 # TL;DR
 i have some personal goals with this:
 * learning how to set up an open source project and collaborate on this with others
-* build an easy to use and understandable datavault generator
+* build an easy to use and understandable datawarehouse generator
 * learn from contributions made by others
-* learn about github ci/cd, actions, codespace, etc.
+* learn about github ci/cd, actions, codespaces, etc.
 * learn more about software development best practices, since i do not really have a background in programming
 
 # comments
@@ -22,9 +22,11 @@ i have some personal goals with this:
 ** for this, i have defined a Branch Protecting Rule, which requires a pull request before merging and also 1 approval
 * tutorial (in progress)
 * track the number of CoPilot hacks here:
-** write the output file to a separate folder
-* setup codespace (done)
-* setup actions/cd-cd https://medium.com/snowflake/snowflake-ci-cd-with-github-actions-c2168ceb33bc or perhaps use my own script https://bidutch.medium.com/snowflake-ci-cd-75d1c907cd0b (todo)
+** write the output file to a separate folder (done)
+* setup codespaces (done)
+* setup actions/cd-cd
+** https://medium.com/snowflake/snowflake-ci-cd-with-github-actions-c2168ceb33bc
+** or perhaps use my own script https://bidutch.medium.com/snowflake-ci-cd-75d1c907cd0b (todo)
 
 # licensing
 from https://choosealicense.com/ i have chosen the GNU GPL v3 license: lets people do almost anything they want with your project, except distributing closed source versions.
