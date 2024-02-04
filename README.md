@@ -5,3 +5,5 @@
 ## clt: code for the collect layer to
 ## stk: code for the stacked layer
 ## hsp: code for the hub&spoke layer
+
+the lrn folder contains a separate readme. Other folders do not, all documentation will be in the wiki
